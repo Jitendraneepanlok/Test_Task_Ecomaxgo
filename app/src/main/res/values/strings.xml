@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Color Prediction Game</string>
+    <string name="selected_item">Selecte City</string>
+    <string name="dialog_msg">loading...</string>
+
+    <string-array name="City">
+        <item>Select City</item>
+        <item>New Delhi</item>
+        <item>Gurugram</item>
+        <item>Noida</item>
+        <item>Hyderabad</item>
+        <item>Banglore</item>
+
+    </string-array>
+</resources>
